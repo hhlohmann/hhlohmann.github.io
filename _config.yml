@@ -1,0 +1,12 @@
+# Scratchbook Entries
+
+defaults:
+  -
+    scope:
+      path: ''
+    values:
+      layout: main
+exclude:
+  - 00_*
+  
+  # ()
