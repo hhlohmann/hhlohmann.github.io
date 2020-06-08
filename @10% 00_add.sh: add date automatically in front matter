@@ -1,0 +1,7 @@
+# 20jun8-555 00_add.sh: add date automatically in front matter
+
+- not as parameter, but set via bash (as date of creation)
+  - ? later as optional parameter ?
+    - might be unnecessary: only edge cases affected that can be handled by manually editing auto-generated date
+
+()
