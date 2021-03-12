@@ -1,12 +1,1 @@
-# Scratchbook Entries
-
-defaults:
-  -
-    scope:
-      path: ''
-    values:
-      layout: main
-exclude:
-  - 00_*
-  
-  # ()
+markdown: kramdown
